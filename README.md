@@ -11,5 +11,7 @@ verileri görseldeki gibi %33 train data ve gerisini test data olarak ayırdıkt
 
 daha sonradan doğrudan regresyonu görselleştirdik.
 verileri sıralamazsak üsteki gibi karmaşık bir tablo elde ederiz fakat sıralayınca altındaki gibi bir görsel elde ettik.
+
+
 ![image](https://github.com/yilmaz-hcsm/Makine_Ogrenmesi_Dogrusal_Regresyon/assets/77545489/bd8ab2a9-0b01-4203-97cf-27e387ae5c5b)
 
