@@ -9,6 +9,12 @@ verileri görseldeki gibi %33 train data ve gerisini test data olarak ayırdıkt
 
 
 
+
+
+
+
+
+
 daha sonradan doğrudan regresyonu görselleştirdik.
 verileri sıralamazsak üsteki gibi karmaşık bir tablo elde ederiz fakat sıralayınca altındaki gibi bir görsel elde ettik.
 
